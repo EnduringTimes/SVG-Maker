@@ -11,7 +11,7 @@ This is a command-line application that generates a simple logo in SVG format ba
 Run the application with `node index.js` and follow the prompts.
 
 ## Walkthrough Video
-[Link to video](#)
+[Link to video](https://drive.google.com/file/d/16iYP4cMrAEGHHpcjmhqClDBqVHIHAPiT/view)
 
 ## License
 MIT
